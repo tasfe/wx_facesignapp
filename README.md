@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Test
 
 > A Vue.js project
@@ -26,3 +27,7 @@ npm run e2e
 # run all tests
 npm test
 ```
+=======
+# wx_facesignapp
+微信—刷脸签到
+>>>>>>> d71f849d97a27ee144162a238ddab2bc26acea4b
