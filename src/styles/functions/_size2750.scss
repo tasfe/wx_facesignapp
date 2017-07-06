@@ -1,0 +1,3 @@
+@function size2750($width) { //把像素转换为rem
+  @return $width /750 * 10rem;
+}
